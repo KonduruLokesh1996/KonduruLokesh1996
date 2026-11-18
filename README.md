@@ -1,18 +1,65 @@
-                                      Hi, I'm Konduru Lokesh 👋
+🚀 About Me
+yaml
 name: Konduru Lokesh
 role: DevOps/SRE
 experience: 3+ years
-location: Hyderabad
+location: Hyderabad, India 🇮🇳
 focus_areas:
   - Cloud Infrastructure (AWS / Azure / GCP)
   - CI/CD Automation & GitOps
   - Kubernetes & Containers
   - Observability & Incident Response
 currently_learning:
-  - AiOps
+  - AIOps
   - AI/LLM Integration in DevOps Workflows
   - Platform Engineering
 currently_building:
   - AI-powered Case Summary Agent (FastAPI + AWS Lambda + LLM)
   - Automating support workflows with GenAI for faster incident triage
 ask_me_about: ["AWS", "Terraform", "Kubernetes", "DevOps"]
+
+💼 Career Highlights
+🏢 Virtusa Consulting Services 🤖 Ai Powered Case Summery BOt
+
+
+⚡  99.9% uptime via Zabbix + Grafana monitoring
+💰 15% AWS cost reduction through resource optimization
+🚀 40% latency reduction on production workloads
+🔐 25% fewer security risks via IAM hardening
+📦 30% faster delivery with Jenkins CI/CD
+🎯 95% SLA compliance on incident resolution
+
+
+☁️ Cloud & Infrastructure
+
+Show Image Show Image Show Image Show Image Show Image
+
+🐳 Containers & Orchestration
+
+Show Image Show Image Show Image Show Image
+
+🔄 CI/CD & DevOps
+
+Show Image Show Image Show Image
+
+📊 Monitoring & Observability
+
+Show Image Show Image
+
+💻 Languages & Tools
+
+Show Image Show Image Show Image
+
+📂 Featured Repositories
+Repo	What's inside
+roboshop-shell	Shell scripts to set up the RoboShop application components
+shell_joindevops	Shell scripting practice from the Join DevOps course
+Learn-Ansible	Ansible playbooks and learning notes
+📈 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KonduruLokesh1996&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=FFFFFF"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=KonduruLokesh1996&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonduruLokesh1996&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=FFFFFF"> </p>
+💡 DevOps Philosophy
+
+"Infrastructure is code. Reliability is culture. Automation is freedom."
+
+🎯 Reliability	⚡ Automation	🔍 Observability	🔐 Security
+SLOs over heroics	Toil → 0	Metrics, Logs, Traces	Shift-left minds
