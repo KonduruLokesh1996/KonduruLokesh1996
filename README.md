@@ -1,5 +1,5 @@
 🚀 About Me
-yaml
+
 name: Konduru Lokesh
 role: DevOps/SRE
 experience: 3+ years
