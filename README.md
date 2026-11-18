@@ -48,3 +48,22 @@ Ask_me_about: ["AWS", "Terraform", "Kubernetes", "DevOps"]
 
 🎯 Reliability	⚡ Automation	🔍 Observability	🔐 Security
 SLOs over heroics	Toil → 0	Metrics, Logs, Traces	Shift-left minds
+"Infrastructure is code. Reliability is culture. Automation is freedom."
+
+🎯 Reliability	⚡ Automation	🔍 Observability	🔐 Security
+SLOs over heroics	Toil → 0	Metrics, Logs, Traces	Shift-left mindset
+✨ Let's Build Something Reliable Together!
+
+
+
+
+"Infrastructure is code. Reliability is culture. Automation is freedom."
+
+🎯 Reliability	⚡ Automation	🔍 Observability	🔐 Security
+SLOs over heroics	Toil → 0	Metrics, Logs, Traces	Shift-left mindset
+✨ Let's Build Something Reliable Together!
+
+
+
+
+
