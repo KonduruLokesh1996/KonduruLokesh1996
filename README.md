@@ -1,9 +1,13 @@
 🚀 About Me
 
 name: Konduru Lokesh
+
 role: DevOps/SRE
+
 experience: 3+ years
+
 location: Hyderabad, India 🇮🇳
+
 focus_areas:
   - Cloud Infrastructure (AWS / Azure / GCP)
   - CI/CD Automation & GitOps
