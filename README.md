@@ -1,29 +1,30 @@
 🚀 About Me
 
-name: Konduru Lokesh
+Name: Konduru Lokesh
 
-role: DevOps/SRE
+Role: DevOps/SRE
 
-experience: 3+ years
+Experience: 3+ years
 
-location: Hyderabad, India 🇮🇳
+Location: Hyderabad, India 🇮🇳
 
-focus_areas:
+Focus_areas:
   - Cloud Infrastructure (AWS / Azure / GCP)
   - CI/CD Automation & GitOps
   - Kubernetes & Containers
   - Observability & Incident Response
-currently_learning:
+Currently_learning:
   - AIOps
   - AI/LLM Integration in DevOps Workflows
   - Platform Engineering
-currently_building:
+Currently_building:
   - AI-powered Case Summary Agent (FastAPI + AWS Lambda + LLM)
   - Automating support workflows with GenAI for faster incident triage
-ask_me_about: ["AWS", "Terraform", "Kubernetes", "DevOps"]
+Ask_me_about: ["AWS", "Terraform", "Kubernetes", "DevOps"]
 
 💼 Career Highlights
-🏢 Virtusa Consulting Services 🤖 Ai Powered Case Summery BOt
+🏢 Virtusa Consulting Services 
+🏢 Capgemini
 
 
 ⚡  99.9% uptime via Zabbix + Grafana monitoring
