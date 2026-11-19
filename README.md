@@ -42,17 +42,11 @@ Ask_me_about: ["AWS", "Terraform", "Kubernetes", "DevOps"]
 
 📈 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KonduruLokesh1996&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=FFFFFF"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=KonduruLokesh1996&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonduruLokesh1996&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=FFFFFF"> </p>
+
 💡 DevOps Philosophy
 
 "Infrastructure is code. Reliability is culture. Automation is freedom."
 
-🎯 Reliability	⚡ Automation	🔍 Observability	🔐 Security
-SLOs over heroics	Toil → 0	Metrics, Logs, Traces	Shift-left minds
-"Infrastructure is code. Reliability is culture. Automation is freedom."
-
-🎯 Reliability	⚡ Automation	🔍 Observability	🔐 Security
-SLOs over heroics	Toil → 0	Metrics, Logs, Traces	Shift-left mindset
-✨ Let's Build Something Reliable Together!
 
 
 
