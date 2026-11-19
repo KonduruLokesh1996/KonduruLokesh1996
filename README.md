@@ -39,6 +39,8 @@ Ask_me_about: ["AWS", "Terraform", "Kubernetes", "DevOps"]
 
 🎯 95% SLA compliance on incident resolution
 
+https://github.com/GorleJansi#%EF%B8%8F-cloud--infrastructure
+
 
 📈 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KonduruLokesh1996&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=FFFFFF"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=KonduruLokesh1996&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonduruLokesh1996&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=FFFFFF"> </p>
